@@ -21,6 +21,11 @@ technical indicators and performance metrics.
 
 ------------------------------------------------------------------------
 
+## 🌐 Live Demo
+https://stock-market-dashboard-pandas-plotly.streamlit.app/
+
+------------------------------------------------------------------------
+
 ## 🏗 System Architecture
 
 User Input (Streamlit UI) → Yahoo Finance API (yfinance) → SQLite
